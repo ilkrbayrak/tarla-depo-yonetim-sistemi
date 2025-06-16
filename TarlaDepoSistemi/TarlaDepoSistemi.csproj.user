@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCiftci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCiftciEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCiftciGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDepo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDepoDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDepoEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDepoGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDepoTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTarlaEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTarlaGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTarlalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUrunEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUrunGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUrunler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

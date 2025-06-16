@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0130lker\\Source\\Repos\\TarlaDepoSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2F4EB-45B9-4D98-B9AA-12664618B10E}|TarlaDepoSistemi\\TarlaDepoSistemi.csproj|c:\\users\\\u0130lker\\source\\repos\\tarladeposistemi\\tarladeposistemi\\frmdepoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E2F4EB-45B9-4D98-B9AA-12664618B10E}|TarlaDepoSistemi\\TarlaDepoSistemi.csproj|solutionrelative:tarladeposistemi\\frmdepoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2F4EB-45B9-4D98-B9AA-12664618B10E}|TarlaDepoSistemi\\TarlaDepoSistemi.csproj|c:\\users\\\u0130lker\\source\\repos\\tarladeposistemi\\tarladeposistemi\\frmdepoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6E2F4EB-45B9-4D98-B9AA-12664618B10E}|TarlaDepoSistemi\\TarlaDepoSistemi.csproj|solutionrelative:tarladeposistemi\\frmdepoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2F4EB-45B9-4D98-B9AA-12664618B10E}|TarlaDepoSistemi\\TarlaDepoSistemi.csproj|c:\\users\\\u0130lker\\source\\repos\\tarladeposistemi\\tarladeposistemi\\frmdepodetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E2F4EB-45B9-4D98-B9AA-12664618B10E}|TarlaDepoSistemi\\TarlaDepoSistemi.csproj|solutionrelative:tarladeposistemi\\frmdepodetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2F4EB-45B9-4D98-B9AA-12664618B10E}|TarlaDepoSistemi\\TarlaDepoSistemi.csproj|c:\\users\\\u0130lker\\source\\repos\\tarladeposistemi\\tarladeposistemi\\frmdepodetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6E2F4EB-45B9-4D98-B9AA-12664618B10E}|TarlaDepoSistemi\\TarlaDepoSistemi.csproj|solutionrelative:tarladeposistemi\\frmdepodetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDepoEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130lker\\Source\\Repos\\TarlaDepoSistemi\\TarlaDepoSistemi\\FrmDepoEkle.cs",
+              "RelativeDocumentMoniker": "TarlaDepoSistemi\\FrmDepoEkle.cs",
+              "ToolTip": "C:\\Users\\\u0130lker\\Source\\Repos\\TarlaDepoSistemi\\TarlaDepoSistemi\\FrmDepoEkle.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "TarlaDepoSistemi\\FrmDepoEkle.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:40:25.429Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDepoEkle.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130lker\\Source\\Repos\\TarlaDepoSistemi\\TarlaDepoSistemi\\FrmDepoEkle.cs",
+              "RelativeDocumentMoniker": "TarlaDepoSistemi\\FrmDepoEkle.cs",
+              "ToolTip": "C:\\Users\\\u0130lker\\Source\\Repos\\TarlaDepoSistemi\\TarlaDepoSistemi\\FrmDepoEkle.cs*",
+              "RelativeToolTip": "TarlaDepoSistemi\\FrmDepoEkle.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:38:34.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDepoDetay.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130lker\\Source\\Repos\\TarlaDepoSistemi\\TarlaDepoSistemi\\FrmDepoDetay.cs",
+              "RelativeDocumentMoniker": "TarlaDepoSistemi\\FrmDepoDetay.cs",
+              "ToolTip": "C:\\Users\\\u0130lker\\Source\\Repos\\TarlaDepoSistemi\\TarlaDepoSistemi\\FrmDepoDetay.cs",
+              "RelativeToolTip": "TarlaDepoSistemi\\FrmDepoDetay.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAAABAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:23:35.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDepoDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130lker\\Source\\Repos\\TarlaDepoSistemi\\TarlaDepoSistemi\\FrmDepoDetay.cs",
+              "RelativeDocumentMoniker": "TarlaDepoSistemi\\FrmDepoDetay.cs",
+              "ToolTip": "C:\\Users\\\u0130lker\\Source\\Repos\\TarlaDepoSistemi\\TarlaDepoSistemi\\FrmDepoDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "TarlaDepoSistemi\\FrmDepoDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:23:29.664Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
